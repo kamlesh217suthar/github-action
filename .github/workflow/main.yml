@@ -11,5 +11,5 @@ jobs:
      
      - name: Run a sample github action
 
-     - run: echo "this workflow run successfully for this pericular action"
+       run: echo "this workflow run successfully for this pericular action"
      
